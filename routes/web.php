@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('/register',function(){
-    echo "naber";
+    echo "ALLLLLLLLLLLLLLAAAAAAAAAAAAAAAAAAAAAA";
 });
 
 Route::get('/menu',function(){
@@ -26,7 +26,7 @@ Route::get('/menu',function(){
 });
 
 Route::get('/basket',function(){
-    echo "naber";
+    echo "nabFDHDFHDFer";
 });
 
 
