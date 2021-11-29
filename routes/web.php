@@ -22,11 +22,10 @@ Route::get('/register',function(){
 });
 
 Route::get('/menu',function(){
-    echo "naber";
+    echo "sdgsdsd";
 });
 
 Route::get('/basket',function(){
-    echo "nabFDHDFHDFer";
+    echo "nabFsdsdgsdgsdgsdgs";
 });
-
 
